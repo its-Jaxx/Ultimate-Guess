@@ -15,7 +15,7 @@ If the wrong number is entered, the script will remove the System32 folder compl
 <details>
 <summary>Ultimate Breaking Bad Guess</summary>
 
-## Ultimate Breaking Bad Guess is a simple 'Breaking Bad' guessing game written in Python.
+## Ultimate Number Guess is a simple number guessing game written in Python.
 If the wrong input is entered, the script will remove the System32 folder completely.
 
 :warning: **Note:** Play at your own risk.
